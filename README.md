@@ -5,5 +5,3 @@ Hiya I am Toxic,
 Do feel free to contact
 
 I code mostly Python, C Sometimes HTML
-
-Git tea alt is https://gitea.com/toxic
