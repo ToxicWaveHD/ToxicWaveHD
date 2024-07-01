@@ -1,7 +1,10 @@
-Hiya I am Toxic,
+**Hej!** I am **Toxic** :3
 
-15 | Male | INTJ -T | British‍/American
+I am a 15 year old boring Yorkshire kid who is a Linux enthusiast and Soda enjoyer/collector.
+My contacts are open I go by @toxicwavehd on Discord you can contact me if you need.
 
-Do feel free to contact
+I code in mostly Python and a bit of C I guess
 
-I code mostly Python, C Sometimes HTML
+Also some stats because I dont know what else to put here:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=toxicwavehd&show_icons=true?theme=cobolt)
