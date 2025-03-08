@@ -1,6 +1,6 @@
 **Hej!** I am **Toxic** :3
 
-I am a 15 year old boring Yorkshire kid who is a Linux enthusiast and Soda enjoyer/collector.
+I am a 16 year old boring Yorkshire kid who is a Linux enthusiast and Soda enjoyer/collector.
 My contacts are open I go by @toxicwavehd on Discord you can contact me if you need.
 
 I code in mostly Python and a bit of C I guess
